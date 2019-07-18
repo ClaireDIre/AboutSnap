@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=b-EWj7xN90U
 
 ### Who uses Snap!?
 
-Colleges and high schools use Snap! to teach computer science. Students use Snap! to create games, interactive stories, artwork and simulations, to analyze data, drill down on media, control robots and to invent new forms of expressing themselves.
+Colleges and high schools use Snap! to teach computer science, as well as coding clubs in your local neighborhood. Students use Snap! to create games, interactive stories, artwork and simulations, to analyze data, drill down on media, control robots and to invent new forms of expressing themselves.
 
 
 
@@ -16,7 +16,9 @@ Colleges and high schools use Snap! to teach computer science. Students use Snap
 
 Snap! has been engineered to support UC Berkeley's introductory computer science curriculum named "<a href="https://bjc.berkeley.edu">The Beauty and Joy of Computing</a>" (BJC).
 
-
+### Snap! and SAP
+SAP is committed to supporting the 17 United Nations Sustainable Development Goals (SDG). To create sustainable futures, there must be educated workers who can support government agencies, private-sector businesses, and other organizations that fuel economic growth. To build an educated workforce, children must be provided the opportunity to learn. As part of our contribution to SDG 4, Quality Education, SAP has partnered with UC Berkeley to evolve the visual programming language, Snap! Through local and global events,  Snap! brings coding and digital literacy to children around the world.
+(More information here https://www.sap.com/corporate/en/company/sustainability-csr/csr.html#skills and https://www.sap.com/dmc/exp/2018-01-unglobalgoals/4_Quality_Education.html)
 
 ### What Others Say about Snap!
 
